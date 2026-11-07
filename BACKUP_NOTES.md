@@ -1,4 +1,8 @@
-# Source backup
+# Home-Alignment-Lab
+
+Android launcher and wallpaper alignment experiments, calibration tools, and diagnostics.
+
+
 
 Private source snapshot prepared on 2026-11-07. Original local files were not changed.
 
