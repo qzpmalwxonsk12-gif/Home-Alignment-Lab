@@ -3,38 +3,18 @@
   "files": [
     {
       "path": ".gitignore",
-      "size": 49,
-      "sha256": "25ad61c98e7c3e2c466e1c4bae45f8810bfc48c15398f679262e4d47d78621f5"
+      "size": 396,
+      "sha256": "2d5dad83ab076d0b5b016c8d6430843d62beed3373af6297bef71cd7b49417b6"
     },
     {
-      "path": "build.gradle",
-      "size": 140,
-      "sha256": "44bbe958110c0541b590fa2771c6e0db63666ae936449f0d332f3067441ed4ec"
-    },
-    {
-      "path": "gradle.properties",
-      "size": 161,
-      "sha256": "4d373e4a9dbc91affd0f3f0450e1c5e459abc45ecc6a7e7a5e8623498a363683"
-    },
-    {
-      "path": "gradlew",
-      "size": 8733,
-      "sha256": "b187b4c52e749f5760afdd6fadc31b2a98ad35fb249bf0dff03b72650f320409"
-    },
-    {
-      "path": "gradlew.bat",
-      "size": 2937,
-      "sha256": "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b"
+      "path": "BACKUP_NOTES.md",
+      "size": 2019,
+      "sha256": "40ae2f5c47a4ea7ed40a618f8c34509a4bf4b5e1e10b295e7d7c7a9328561178"
     },
     {
       "path": "README.md",
-      "size": 1176,
-      "sha256": "0201963ece3f02ffa929e989091af698525383f89a7dc568b8727cdf9469f3f7"
-    },
-    {
-      "path": "settings.gradle",
-      "size": 284,
-      "sha256": "4c5e4a1f59d13d1f829616bbc05afa6edfe0f9663e52929307ff712c5397bd0a"
+      "size": 3538,
+      "sha256": "86429afe98b45cb4391ddc4c8c6cc0e887dd2fd5edd70f2460322e6c0ccbf549"
     },
     {
       "path": "app/build.gradle",
@@ -47,9 +27,19 @@
       "sha256": "9f15b29b03f3a20c1f28d3cb26920b2bb03b9b296763cf13a5bc2bfe123fbc20"
     },
     {
+      "path": "app/src/androidTest/assets/Color-motion.mp4",
+      "size": 91649,
+      "sha256": "de3df7dbf1891260d9871a52dc57afa112fa9c397ba6a45dfbd31d7d8154712a"
+    },
+    {
       "path": "app/src/androidTest/assets/Moving-transparent.gif",
       "size": 21538,
       "sha256": "e0b8fafc082b863f74c69164d51fc4fef1244b5c7fe2543d285a985d48440ded"
+    },
+    {
+      "path": "app/src/androidTest/assets/Rotated-motion.mp4",
+      "size": 91649,
+      "sha256": "3a8fe0472670c53a6a43e79c0853cef9e92472a3d09aeab5c8b2c1853438878c"
     },
     {
       "path": "app/src/androidTest/assets/Too-wide.gif",
@@ -262,6 +252,11 @@
       "sha256": "eaf083aa79ed1e51b5b2cf47613967980598fe8b0b8e480c08c027437883370d"
     },
     {
+      "path": "app/src/main/res/raw/motion_test.mp4",
+      "size": 165287,
+      "sha256": "835365dffbf697b940afb8d195b4db0dfd5478300a22c94cd8bea3a162a4abdb"
+    },
+    {
       "path": "app/src/main/res/values/strings.xml",
       "size": 140,
       "sha256": "2ba6e7e71a8b5d3fe182f35e5475d8694aa78302d7765e93f75c1250d64d3e27"
@@ -345,6 +340,11 @@
       "path": "app/src/test/java/dev/animatedhome/diagnostics/WidgetStatusTest.kt",
       "size": 1072,
       "sha256": "def8b9c7010e91c475363ce9a46af22443a42aac61b50576590bea1e8d9fe19e"
+    },
+    {
+      "path": "build.gradle",
+      "size": 140,
+      "sha256": "44bbe958110c0541b590fa2771c6e0db63666ae936449f0d332f3067441ed4ec"
     },
     {
       "path": "docs/ARCHITECTURE.md",
@@ -477,6 +477,11 @@
       "sha256": "3fe2bf05f01f73ce009ee56a40a43453eba4dda01b2f8e0694073405d4499ab7"
     },
     {
+      "path": "gradle.properties",
+      "size": 161,
+      "sha256": "4d373e4a9dbc91affd0f3f0450e1c5e459abc45ecc6a7e7a5e8623498a363683"
+    },
+    {
       "path": "gradle/wrapper/gradle-wrapper.jar",
       "size": 43764,
       "sha256": "7d3a4ac4de1c32b59bc6a4eb8ecb8e612ccd0cf1ae1e99f66902da64df296172"
@@ -485,6 +490,16 @@
       "path": "gradle/wrapper/gradle-wrapper.properties",
       "size": 337,
       "sha256": "06ee60f337f50f70a8747b3ac6498037e7888b009d38dd4addc20c7987698203"
+    },
+    {
+      "path": "gradlew",
+      "size": 8733,
+      "sha256": "b187b4c52e749f5760afdd6fadc31b2a98ad35fb249bf0dff03b72650f320409"
+    },
+    {
+      "path": "gradlew.bat",
+      "size": 2937,
+      "sha256": "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b"
     },
     {
       "path": "releases/SHA256SUMS.txt",
@@ -500,6 +515,13 @@
       "path": "releases/START-HERE.md",
       "size": 3012,
       "sha256": "59d4e18bd3d659f2028df4aba6acde3c61d93ded15024a8600ff50bcce1e6dff"
+    },
+    {
+      "path": "settings.gradle",
+      "size": 284,
+      "sha256": "4c5e4a1f59d13d1f829616bbc05afa6edfe0f9663e52929307ff712c5397bd0a"
     }
-  ]
+  ],
+  "last_reviewed": "2026-11-07",
+  "manifest_scope": "Current reviewed source snapshot, excluding this manifest itself and untracked generated outputs."
 }
