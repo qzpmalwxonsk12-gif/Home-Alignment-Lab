@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Home Alignment</string>
+    <string name="widget_invisible_label">&#8203;</string>
+</resources>

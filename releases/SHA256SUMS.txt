@@ -1,0 +1,8 @@
+cef6f45cd8f0a629303c18ae1ff38214b40590d05a4e16c44a20f9fc9e96f3a8  Home-Alignment-Lab-0.6.0-multi-widget.apk
+cef6f45cd8f0a629303c18ae1ff38214b40590d05a4e16c44a20f9fc9e96f3a8  Home-Alignment-Lab-0.6.1-easy-setup.apk
+bd834fc4619e566da01c4ed46b8334e35812d85f289278caeecd47294555f07c  Home-Alignment-Lab-0.7.0-studio.apk
+192b6386ce7b89652dc819e1669020c9c1ff0d994287c5a7fcfd6f2f6c20a2a1  Home-Alignment-Lab-0.7.1-page-fallback.apk
+af96cbb03d057ce391e483981943453ba4ffbabb03bed183ad7561cc8d1547f5  Home-Alignment-Lab-0.7.1-source.zip
+cec979ebd4da9d923805e1749882c1a9d8653d5fc2e25fd7d2a84590fc074eb1  Home-Alignment-Lab-0.7.1-validation.zip
+b1c4e10b97e30124753aa58a1c4b06ca18eb47c1e19f47c5b312172e800abe71  Home-Alignment-Lab-Architecture-and-Source.zip
+192b6386ce7b89652dc819e1669020c9c1ff0d994287c5a7fcfd6f2f6c20a2a1  Home-Alignment-Lab-current.apk

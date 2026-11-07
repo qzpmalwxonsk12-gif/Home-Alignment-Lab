@@ -1,0 +1,16 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:colorAccent">#99EBC7</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#0C1118</item>
+        <item name="android:navigationBarColor">#0C1118</item>
+        <item name="android:statusBarColor">#0C1118</item>
+    </style>
+    <style name="FolderTheme" parent="android:style/Theme.Material.Dialog.NoActionBar">
+        <item name="android:colorAccent">#99EBC7</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowMinWidthMajor">85%</item>
+        <item name="android:windowMinWidthMinor">85%</item>
+    </style>
+</resources>

@@ -1,0 +1,19 @@
+plugins { id 'com.android.application'; id 'org.jetbrains.kotlin.android' }
+android {
+    namespace 'dev.animatedhome.diagnostics'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'dev.animatedhome.diagnostics'
+        minSdk 26
+        targetSdk 35
+        versionCode 9
+        versionName '0.7.1-page-fallback'
+        testInstrumentationRunner 'dev.animatedhome.diagnostics.WallpaperFixtureInstrumentation'
+    }
+    buildFeatures { buildConfig true }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+    kotlinOptions { jvmTarget = '17' }
+    androidResources { noCompress += ['mp4'] }
+    lint { abortOnError true }
+}
+dependencies { testImplementation 'junit:junit:4.13.2' }

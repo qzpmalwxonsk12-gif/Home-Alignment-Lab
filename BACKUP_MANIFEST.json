@@ -1,0 +1,505 @@
+{
+  "date": "2026-11-07",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 49,
+      "sha256": "25ad61c98e7c3e2c466e1c4bae45f8810bfc48c15398f679262e4d47d78621f5"
+    },
+    {
+      "path": "build.gradle",
+      "size": 140,
+      "sha256": "44bbe958110c0541b590fa2771c6e0db63666ae936449f0d332f3067441ed4ec"
+    },
+    {
+      "path": "gradle.properties",
+      "size": 161,
+      "sha256": "4d373e4a9dbc91affd0f3f0450e1c5e459abc45ecc6a7e7a5e8623498a363683"
+    },
+    {
+      "path": "gradlew",
+      "size": 8733,
+      "sha256": "b187b4c52e749f5760afdd6fadc31b2a98ad35fb249bf0dff03b72650f320409"
+    },
+    {
+      "path": "gradlew.bat",
+      "size": 2937,
+      "sha256": "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b"
+    },
+    {
+      "path": "README.md",
+      "size": 1176,
+      "sha256": "0201963ece3f02ffa929e989091af698525383f89a7dc568b8727cdf9469f3f7"
+    },
+    {
+      "path": "settings.gradle",
+      "size": 284,
+      "sha256": "4c5e4a1f59d13d1f829616bbc05afa6edfe0f9663e52929307ff712c5397bd0a"
+    },
+    {
+      "path": "app/build.gradle",
+      "size": 772,
+      "sha256": "619f432f5ac0fb6800a40db6823a0a8658590ddeab9190a1f9dc399bcdf63e08"
+    },
+    {
+      "path": "app/src/androidTest/assets/Broken.gif",
+      "size": 50,
+      "sha256": "9f15b29b03f3a20c1f28d3cb26920b2bb03b9b296763cf13a5bc2bfe123fbc20"
+    },
+    {
+      "path": "app/src/androidTest/assets/Moving-transparent.gif",
+      "size": 21538,
+      "sha256": "e0b8fafc082b863f74c69164d51fc4fef1244b5c7fe2543d285a985d48440ded"
+    },
+    {
+      "path": "app/src/androidTest/assets/Too-wide.gif",
+      "size": 72,
+      "sha256": "9cca074e59e67f527e4d2a4318cf9d482373e3c1e0fe95af7352315879997dd4"
+    },
+    {
+      "path": "app/src/androidTest/java/dev/animatedhome/diagnostics/MediaImportRegression.kt",
+      "size": 2237,
+      "sha256": "fe6c392eb0bfdd9e2a0f0a57220a1776725f1ccb59d6692990df9ecf01d42a96"
+    },
+    {
+      "path": "app/src/androidTest/java/dev/animatedhome/diagnostics/PageFallbackRegression.kt",
+      "size": 5270,
+      "sha256": "67740158d4213acd6eb91427a7a783af2b3e430bcdd2f4232ca666ffa5a81282"
+    },
+    {
+      "path": "app/src/androidTest/java/dev/animatedhome/diagnostics/ScaledWidgetRegression.kt",
+      "size": 4346,
+      "sha256": "2caf2eebc9f3ea59f190ee7adbb1548b908e605172488ffc5956cd8bfae8b0cb"
+    },
+    {
+      "path": "app/src/androidTest/java/dev/animatedhome/diagnostics/VideoTestFixture.kt",
+      "size": 1940,
+      "sha256": "627dc46e7a4eff71d6c518378ab0803c51fb19a2e6cedee8c7995951a47e9a6d"
+    },
+    {
+      "path": "app/src/androidTest/java/dev/animatedhome/diagnostics/WallpaperFixtureTest.kt",
+      "size": 2779,
+      "sha256": "a33295785d2ec9d579c644f1cd90c11ce21c8d76ce63a21f2ecbef3a1747a27f"
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "size": 4035,
+      "sha256": "48fe31cb793fcaa4017f12367a8a06758de2f8a7a9c831574e6be15263c86475"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/AlignmentFlow.kt",
+      "size": 5721,
+      "sha256": "f85dd5ccc394fd78516d6e023d2c336b4c35d6cf7972ac5bd2a1d16abb3be412"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/BackgroundImport.kt",
+      "size": 11490,
+      "sha256": "606122f3fb926b107af9b0b7e53a8b6870ec81a4aeb23037e1160ca45960f1a9"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/BatteryTelemetry.kt",
+      "size": 17120,
+      "sha256": "ab882de6a9b240d39d0cb358c8c6c8fed8f7ef24b03e8ac4e347e64f6c010271"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/CalibrationWidget.kt",
+      "size": 5291,
+      "sha256": "cf0e793157b3953726e08c513b35073c926430bfbefc70a4d78594e829ea91d4"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/CaptureActivity.kt",
+      "size": 9196,
+      "sha256": "2a1212f7062078f41c8117e3db0a42c0505ed6ab4a5b7824bc20745647d1ba6e"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/FolderActivity.kt",
+      "size": 4782,
+      "sha256": "0b3c8b04d877e33e91dc083db73d5f5c48954e5909fdf44892472d8efa4fce23"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/Geometry.kt",
+      "size": 5507,
+      "sha256": "87576f53b8462625013f4a19ae898dae9df5b4390a0b9762603ad1c485604ab0"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/LabApplication.kt",
+      "size": 755,
+      "sha256": "31ee652f3b0589e2c4bf7dd8bee9c5ca459072cb6e54f79d3b4c09ef4200b65d"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/LabWallpaper.kt",
+      "size": 23364,
+      "sha256": "d088a2226af2dd198107a53d17ef5214c0426e263ac6f2dfca9de2575ef827e9"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/MainActivity.kt",
+      "size": 15970,
+      "sha256": "31f95e5efd2b9309d8f138c17f99e8457a7c6ab78c32f862a34b6c95976b6900"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/MediaPolicy.kt",
+      "size": 4080,
+      "sha256": "6da70a10f322b56e28f5205122d0731834e1933c6db35b37d517577a92d5c757"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/MediaPreview.kt",
+      "size": 3916,
+      "sha256": "8a5e2eb934e7eac969fc32d0810ff0572b8dfe8cc5c90dbb0f9d1fb3bcdc6240"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/MediaStore.kt",
+      "size": 11277,
+      "sha256": "853d48d804303bd8c046e1c788e3e411c07ad66fe8828fad079c46ff810135c2"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/OptimizationJob.kt",
+      "size": 979,
+      "sha256": "115f839f875d9f83ad61da458aa7798f210cb248064bc50081e3e8a6622b336b"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/PageSurveyActivity.kt",
+      "size": 7768,
+      "sha256": "7725be7b7b73014ee23406cf5aaf83c291b32964d88b0bd73687226e8b911b39"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/SavedSetupPolicy.kt",
+      "size": 535,
+      "sha256": "4e8ba74701e74f0da76c31238060e2f87d69f1336461dee00669c70f230ba557"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/SetupActivity.kt",
+      "size": 25331,
+      "sha256": "650828fd78ab9ca250f8fc0a67f9c989df7aace0eff22b280ce780e8a3eba430"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/SetupPolicy.kt",
+      "size": 906,
+      "sha256": "d14755c7472c52a9b2e571eeadb06320d1d6c7bf7699fe4fbbe860e3577628fd"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/State.kt",
+      "size": 14247,
+      "sha256": "2b05f2f5e58052dc3514907efd11a2f4446182c098dd41c94f0559c01c692e67"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/StreamEngine.kt",
+      "size": 37522,
+      "sha256": "252be702a482528544e4087d70d6eddb16e7624cf7df6d7fcda4bd347a752dd6"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/SurveyFlow.kt",
+      "size": 7054,
+      "sha256": "1b427429b495a71def34bb13008aecadc472c6cc24ca950e7305d888f1b310ac"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/SwipeFallback.kt",
+      "size": 6826,
+      "sha256": "a84ea02a578cb54b68fff52493ae923df299d62cd62aaef11477f9dabdb239b6"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/SwipePageTracker.kt",
+      "size": 2349,
+      "sha256": "10606a669f268a0102439061b5b1a9eaaac35edde175d6a1051466855f81796d"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/Ui.kt",
+      "size": 13886,
+      "sha256": "3e5ea50531c21b93f11e95d9b07e7f8873237cbddeac3aef43a54518071dc0b5"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/VideoActivity.kt",
+      "size": 22827,
+      "sha256": "84ba1c940b9b33989e0bc5adb85293f6b81091d173fe1a662d41aabac7cc5dd8"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/VideoOptimizer.kt",
+      "size": 20087,
+      "sha256": "50cfe3209f59fe7b26dbd8225f41e6d4de2579e9c495a6c6d6261b41f7d09443"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/VideoPolicy.kt",
+      "size": 2011,
+      "sha256": "c96860648dda715d3e30c5aac42db835511cf94ed94e7e2c33b013db8861d4f4"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/WallpaperCompositor.kt",
+      "size": 33399,
+      "sha256": "20019a10ceb01f5120dedc4dedb699bd72f257edcfa335e730e875a071da7224"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/WidgetAnimations.kt",
+      "size": 16748,
+      "sha256": "71809ca9982b6795b24eb818dbb14c97dc7caf89f9820a697e7a3af37986ff49"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/WidgetMeasurement.kt",
+      "size": 2076,
+      "sha256": "c8c87cd53fa36e8daa749d0b524bd66b9c1bd31b63779c1106e601a704983e29"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/WidgetPlacement.kt",
+      "size": 2372,
+      "sha256": "c4f0565e8c93f23156157f9275bd44dcb78a8d1983da674a3015bd07f045ad51"
+    },
+    {
+      "path": "app/src/main/java/dev/animatedhome/diagnostics/WidgetStatus.kt",
+      "size": 1011,
+      "sha256": "e8eaae753ff214ff0424328ed1a3820cba3cc0df5a490e015d708b1134b004de"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_lab.xml",
+      "size": 402,
+      "sha256": "526c5ef57606770ff3f20eec403221a894aea147650191fecc0081710440134d"
+    },
+    {
+      "path": "app/src/main/res/drawable/widget_outline.xml",
+      "size": 170,
+      "sha256": "8f743123dbe394fd142288f7b165dc44840930943ec15104d5d10a8c792fdb2d"
+    },
+    {
+      "path": "app/src/main/res/layout/calibration_widget.xml",
+      "size": 1085,
+      "sha256": "eaf083aa79ed1e51b5b2cf47613967980598fe8b0b8e480c08c027437883370d"
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "size": 140,
+      "sha256": "2ba6e7e71a8b5d3fe182f35e5475d8694aa78302d7765e93f75c1250d64d3e27"
+    },
+    {
+      "path": "app/src/main/res/values/styles.xml",
+      "size": 836,
+      "sha256": "09a22927e4af7bbdec49e22e57ff1bdb1934e882f32500aa67d57674e3415aa5"
+    },
+    {
+      "path": "app/src/main/res/xml/data_extraction_rules.xml",
+      "size": 415,
+      "sha256": "88efdf36dca34ed777e441e2b19d8edecca880fd88ff07163097a5591e10643c"
+    },
+    {
+      "path": "app/src/main/res/xml/wallpaper.xml",
+      "size": 179,
+      "sha256": "200847edfd0227362ecff277371d1494fc66a323c569dbd6220cb68eb7ce617d"
+    },
+    {
+      "path": "app/src/main/res/xml/widget_info.xml",
+      "size": 411,
+      "sha256": "35c4dc655831452a678c72f2694afc6dd7313a3a4ace6015948ea89617439039"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/ArchitectureTest.kt",
+      "size": 5044,
+      "sha256": "e9e5249f26b07c3fd9e0d61419ef998710c41e0dec3009e34d1a9f37240cf92c"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/BatteryTelemetryTest.kt",
+      "size": 2206,
+      "sha256": "c3686a76e9d059cfdc391f2200df16593297b6ed233db25ed5654e736a324596"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/MediaPolicyTest.kt",
+      "size": 3769,
+      "sha256": "b10767f21ec094d22c506bfeb23aee7347768d89f47beddeba995537a1219e99"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/SavedSetupPolicyTest.kt",
+      "size": 1472,
+      "sha256": "fc54377e98973a5b0d058053cb2e9b957777115a9ce5c6a7f67ce57c70164041"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/SetupPolicyTest.kt",
+      "size": 2297,
+      "sha256": "5f5a576ffed2d1d5bb46ba3e25a8f57384ec79854dbe092a1fd7eb65df1233dc"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/SurveyPolicyTest.kt",
+      "size": 1439,
+      "sha256": "bfd9e389096198e4ed87175e41fe775a6f3ab4fc1f7d0ec8391642676a05c22d"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/SwipePageTrackerTest.kt",
+      "size": 3253,
+      "sha256": "ebd8175e549199cc89a04b5b85befe60a72077771164ae31f9eb2aca5eace69c"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/VideoPolicyTest.kt",
+      "size": 2864,
+      "sha256": "7c744af34b5e95eb0c6913815a828e865893416f0a106d07893c58a8aa81807b"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/VideoReturnGateTest.kt",
+      "size": 1694,
+      "sha256": "1e869a9bbfdfcb5acaa5fe4121558f8801e33a32a938c6fa12cc437b142ed447"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/WidgetMeasurementTest.kt",
+      "size": 3358,
+      "sha256": "806098390a71d1767e63a888169a4f85690135e12282ce4397bc58f45ec555d3"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/WidgetPlacementTest.kt",
+      "size": 3120,
+      "sha256": "e876f644b85b2a772b73a0dc8a4d4152b83f1f6a63705f70ea1b5be5b834728d"
+    },
+    {
+      "path": "app/src/test/java/dev/animatedhome/diagnostics/WidgetStatusTest.kt",
+      "size": 1072,
+      "sha256": "def8b9c7010e91c475363ce9a46af22443a42aac61b50576590bea1e8d9fe19e"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "size": 8081,
+      "sha256": "04e373e23eac69e1bb58474b5870a6c4b5799d88519fca933e6676a8f674c1ae"
+    },
+    {
+      "path": "docs/CHANGES-0.2.0.md",
+      "size": 2561,
+      "sha256": "eb2f05cb3dacbf2c8c2f64a0d488e3ffd7400c0842dac2a708df75bb6548d481"
+    },
+    {
+      "path": "docs/CHANGES-0.3.0.md",
+      "size": 2525,
+      "sha256": "0518f608769a81de6d395221a2beaa0d4074b8a14bc20460e285f08ae202be53"
+    },
+    {
+      "path": "docs/CHANGES-0.4.0.md",
+      "size": 2955,
+      "sha256": "c323f4c720c08f911f2a6f0758c96a17f83a7dfa9690b7a63833effdca883a14"
+    },
+    {
+      "path": "docs/CHANGES-0.4.1.md",
+      "size": 1885,
+      "sha256": "0f14243a1635222a44a79a41f64bf388981f9bee81bb8ac370d098b4c227cacd"
+    },
+    {
+      "path": "docs/CHANGES-0.5.0.md",
+      "size": 2821,
+      "sha256": "6c832157fba57c0e0419f9d908ce18dafea24afa856f0b60522e8ca8fb588443"
+    },
+    {
+      "path": "docs/CHANGES-0.6.0.md",
+      "size": 2927,
+      "sha256": "b6db93c546e4b439412e2397771a2366cec959deb408f53aecf56e95a97aef64"
+    },
+    {
+      "path": "docs/CHANGES-0.7.1.md",
+      "size": 2537,
+      "sha256": "6d364cbe9d4a4d35f2092e775b173eec3d02b7da3b9a1088cee21661e7507989"
+    },
+    {
+      "path": "docs/DEVICE-TEST-GUIDE.md",
+      "size": 8176,
+      "sha256": "13c0dfd3ace4856555528e8c5bd003b25e82653c4f1c50d0becdce1ab4129dfa"
+    },
+    {
+      "path": "docs/GUIDE-0.3.0.md",
+      "size": 1480,
+      "sha256": "599d792ba46bf5625ccd83ceb9a55c238fd4d0015c307d321fe99788807320fa"
+    },
+    {
+      "path": "docs/GUIDED-SETUP-0.2.0.md",
+      "size": 3096,
+      "sha256": "cdbd21cba324d58b27045d96cf1574a6a271cfb90ac1aec25f0d5581ee4a6a48"
+    },
+    {
+      "path": "docs/GUIDED-SETUP.md",
+      "size": 1480,
+      "sha256": "599d792ba46bf5625ccd83ceb9a55c238fd4d0015c307d321fe99788807320fa"
+    },
+    {
+      "path": "docs/HOW-IT-WORKS-AND-ARCHITECTURE.md",
+      "size": 18850,
+      "sha256": "a8d74c10320df56e063817877516ccad648972d013630a01f600bec3ff12ffa3"
+    },
+    {
+      "path": "docs/MY-MEDIA-GUIDE.md",
+      "size": 6244,
+      "sha256": "ad4e8659208b1999269d2875b92d0f8f95fa9c92f394c8077944225d8f082c7c"
+    },
+    {
+      "path": "docs/ONEPLUS-0.3.0-RESULT.md",
+      "size": 1890,
+      "sha256": "e8e673e1511c3768eaa58717b051309d1bff39e140803944543090c5b1e50527"
+    },
+    {
+      "path": "docs/TEST-MATRIX-0.2.0.md",
+      "size": 5704,
+      "sha256": "5b38774e500aeddaac289bcb77f6b721a88d0502bdf2772679dcfc5fecafd8b3"
+    },
+    {
+      "path": "docs/TEST-MATRIX.md",
+      "size": 5261,
+      "sha256": "3be83d312a4fd646c39ae09a45047a868b6a2704bb6094fc1e0925b192622f1e"
+    },
+    {
+      "path": "docs/VALIDATION-0.1.0.md",
+      "size": 7648,
+      "sha256": "177ab34f748d99f9b1cf3f88ca0f0c5fc8ec95a226ebb44d1a82f3dd0bf53cc0"
+    },
+    {
+      "path": "docs/VALIDATION-0.2.0.md",
+      "size": 5746,
+      "sha256": "97eb960762bf7fc9dcfd2776d3ea934095e32f52e572a16f4b3b10e73a620b21"
+    },
+    {
+      "path": "docs/VALIDATION-0.3.0.md",
+      "size": 4046,
+      "sha256": "df89726c3f94afd559144350d68b98e78a990b40a5e02367eb0164128b05bff6"
+    },
+    {
+      "path": "docs/VALIDATION-0.4.0.md",
+      "size": 5620,
+      "sha256": "fd4d10a9a89f3da2f9a9ee00656f446b0ec3151e45d866a0fdf0d84ce8bd7904"
+    },
+    {
+      "path": "docs/VALIDATION-0.4.1.md",
+      "size": 4832,
+      "sha256": "db3649c2b0b9f620df62e1a6c3bdd225b4330c444ff5262512ada56c843019be"
+    },
+    {
+      "path": "docs/VALIDATION-0.5.0.md",
+      "size": 5154,
+      "sha256": "4e891a3c72e52ad16850dfea97f2697e6a68e121ae2274ae0b2572fda34e2d23"
+    },
+    {
+      "path": "docs/VALIDATION-0.7.1.md",
+      "size": 3834,
+      "sha256": "c62e06f1569bb71b27d417030859b5df52bbec299dd0bac84ecaa0065198e9f5"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "size": 2452,
+      "sha256": "980fc9fb7529809bdb4419aed729bfcfcdcf08bda71744bac5b3cc506a919bd7"
+    },
+    {
+      "path": "docs/VIDEO-GUIDE.md",
+      "size": 1775,
+      "sha256": "3fe2bf05f01f73ce009ee56a40a43453eba4dda01b2f8e0694073405d4499ab7"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "size": 43764,
+      "sha256": "7d3a4ac4de1c32b59bc6a4eb8ecb8e612ccd0cf1ae1e99f66902da64df296172"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "size": 337,
+      "sha256": "06ee60f337f50f70a8747b3ac6498037e7888b009d38dd4addc20c7987698203"
+    },
+    {
+      "path": "releases/SHA256SUMS.txt",
+      "size": 851,
+      "sha256": "ed3b171ccf1ca5372a2de48ab9ba14218525aaaea2f05d2c424d4793f283e0c0"
+    },
+    {
+      "path": "releases/START-HERE-0.7.1.md",
+      "size": 2737,
+      "sha256": "7927797f70560cffa4eac3d2b53b60a0b04d9ea3dab15aa12763bc2079d6d5df"
+    },
+    {
+      "path": "releases/START-HERE.md",
+      "size": 3012,
+      "sha256": "59d4e18bd3d659f2028df4aba6acde3c61d93ded15024a8600ff50bcce1e6dff"
+    }
+  ]
+}
